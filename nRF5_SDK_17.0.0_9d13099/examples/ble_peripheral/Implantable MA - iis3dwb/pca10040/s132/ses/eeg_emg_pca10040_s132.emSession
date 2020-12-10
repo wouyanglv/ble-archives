@@ -1,0 +1,160 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="111" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../../../../components/libraries/util/app_error_weak.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="185" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../ble_bio_sig_svc.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="60" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../external/freertos/source/include/FreeRTOS.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="63" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../external/freertos/source/include/FreeRTOS.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="65" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../external/freertos/source/include/FreeRTOS.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="84" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="120" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../max30003.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="126" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../max30003.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="64" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../components/softdevice/common/nrf_sdh_freertos.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="65" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../components/softdevice/common/nrf_sdh_freertos.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="66" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../components/softdevice/common/nrf_sdh_freertos.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="86" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../external/freertos/portable/CMSIS/nrf52/port_cmsis.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="11265" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="114" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="3316" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="3321" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="5185" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="7350" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="1071" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../external/freertos/source/timers.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="eeg_emg_pca10040_s132" radix="16" sizeText="" addressText="0x2000FEC8"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="eeg_emg_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="eeg_emg_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="eeg_emg_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;Application"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;Board Definition"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;Board Support"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_BLE"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_BLE_Services"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nrf_cc310"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_Drivers"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_Libraries"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_Oberon_Crypto"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_SoftDevice"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;nRF_TLS"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;Segger Startup Files"/>
+  <ProjectSessionItem path="eeg_emg_pca10040_s132;eeg_emg_pca10040_s132;UTF8/UTF16 converter"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="eeg_emg_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="eeg_emg_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="eeg_emg_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="eeg_emg_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="693" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="669" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11628" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/ble_bio_sig_svc.h" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11625" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="59" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../max30003.c" selected="0" top="135" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="46" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/ble_bio_sig_svc.c" useBinaryEdit="0" left="0" path="../../../max30003.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="225" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/main.c" useBinaryEdit="0" left="0" path="../../../ble_bio_sig_svc.c" selected="0" top="212" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="166" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.c" selected="0" top="160" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="132" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_bas/ble_bas.c" selected="0" top="122" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="121" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_dis/ble_dis.c" selected="0" top="109" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="141" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.h" selected="0" top="117" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="17" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../spi.c" selected="0" top="15" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="115" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/spi.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_spim.c" selected="0" top="115" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="292" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2 old/examples/ble_peripheral/Implantable MA - Original/ble_bio_sig_svc.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" selected="0" top="273" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="46" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../max30003_intb.c" selected="0" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="22" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/spi.c" useBinaryEdit="0" left="0" path="../config/app_config.h" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="82" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/spi_mngr/nrf_spi_mngr.h" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="208" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_spi.h" selected="0" top="192" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_spim.h" selected="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatt.h" selected="0" top="84" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="101" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="95" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="155" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/spi_mngr/nrf_spi_mngr.c" selected="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="114" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_spi.c" selected="0" top="111" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="66" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/spi.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_spim.h" selected="0" top="65" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="343" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/pwr_mgmt/nrf_pwr_mgmt.c" selected="0" top="337" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="552" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/pwm/app_pwm.c" selected="0" top="514" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="42" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_ppi.c" selected="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_handler_gcc.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="271" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_gpiote.c" selected="0" top="248" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="111" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../i2c.c" selected="0" top="78" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="534" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_twi.h" selected="0" top="512" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="166" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/id_manager.c" selected="0" top="163" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="428" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/security_dispatcher.c" selected="0" top="418" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="150" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/nrf_ble_gatt/nrf_ble_gatt.c" selected="0" top="145" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="153" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh_ble.c" selected="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="707" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_advertising/ble_advertising.c" selected="0" top="697" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="177" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_advdata.c" selected="0" top="167" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="60" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_conn_params.c" selected="0" top="50" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_ppi.h" selected="0" top="55" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1157" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/peer_manager.c" selected="0" top="1152" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="344" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/peer_manager_handler.c" selected="0" top="335" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/strerror/nrf_strerror.c" selected="0" top="89" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="20" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_conn_params.h" selected="0" top="3" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_dis/ble_dis.h" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="105" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/eeg_emg_v1_samplespacked/spi.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="95" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../read_data_simple.c" selected="0" top="68" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="88" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/main.c" useBinaryEdit="0" left="0" path="../../../iis3dwb_reg.c" selected="0" top="2691" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="316" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/iis3dwb_reg.c" useBinaryEdit="0" left="0" path="../../../iis3dwb_reg.h" selected="0" top="496" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="119" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/ble_bio_sig_svc.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_srv_common.c" selected="0" top="112" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="200" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/Implantable MA/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_advertising/ble_advertising.h" selected="0" top="193" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="151" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/components/ble/ble_advertising/ble_advertising.h" useBinaryEdit="0" left="0" path="../../../../../../components/ble/common/ble_advdata.h" selected="0" top="147" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="139" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../ble_bio_sig_svc.h" selected="0" top="139" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1071" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/freertos/source/timers.c" selected="0" top="1062" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="28" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/freertos/source/croutine.c" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="56" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/freertos/source/include/FreeRTOS.h" selected="0" top="55" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="44" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh_freertos.c" selected="0" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="362" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh.c" selected="0" top="354" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="114" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/freertos/portable/CMSIS/nrf52/port_cmsis_systick.c" selected="0" top="113" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh_soc.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="85" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/freertos/portable/CMSIS/nrf52/port_cmsis.c" selected="0" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="166" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../FreeRTOSConfig.h" selected="0" top="160" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="987" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/timer/app_timer.c" selected="0" top="971" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/auth_status_tracker.c" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/fprintf/nrf_fprintf_format.c" selected="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="38" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_rng.c" selected="0" top="37" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/sdk_common.h" selected="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/spi.c" useBinaryEdit="0" left="0" path="../../../spi.h" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="339" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/apply_old_config.h" selected="0" top="330" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="247" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_rtc.c" selected="0" top="236" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="304" useTextEdit="1" openedFrom="C:/Users/64408/Desktop/nRF5SDK160098a08e2/examples/ble_peripheral/Implantable MA - Original/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/peer_manager/nrf_ble_lesc.c" selected="0" top="297" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="eeg_emg_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/64408/Desktop/nRF5_SDK_16.0.0_98a08e2/components/libraries/timer" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
