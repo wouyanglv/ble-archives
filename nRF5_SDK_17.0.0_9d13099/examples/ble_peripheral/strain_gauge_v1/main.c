@@ -60,7 +60,7 @@
 #include "ble_srv_common.h"
 #include "ble_advdata.h"
 #include "ble_advertising.h"
-#include "ble_hrs_strain_gauge_v1.h".h"
+#include "ble_hrs_strain_gauge_v1.h"
 #include "ble_conn_params.h"
 #include "sensorsim.h"
 #include "nrf_sdh.h"

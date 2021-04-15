@@ -996,7 +996,7 @@ static void emg_data_avail_handler()
 
 
 static void read_sensor_data(max30003_dev_t *dev, ble_biosig_svc_dev_type dev_type)
-{
+{SEGGER_RTT_printf(0,"started. ");
     uint32_t ecgFIFO, ETAG, status;
     int16_t ecgSample;
     int16_t ecgSamples[32];
@@ -1077,6 +1077,7 @@ static void read_sensor_data(max30003_dev_t *dev, ble_biosig_svc_dev_type dev_ty
     {
         max30003_reset_fifo(dev); // Reset FIFO
     }
+    SEGGER_RTT_printf(0,"finished. ");
 }
 
 
@@ -1110,6 +1111,7 @@ int main(void)
     buttons_leds_init(&erase_bonds);
     power_management_init();
     ble_stack_init();
+    sd_power_dcdc_mode_set(NRF_POWER_DCDC_ENABLE);
     gap_params_init();
     gatt_init();
     advertising_init();
@@ -1168,8 +1170,8 @@ int main(void)
     while (1)
     {
 
-        if (m_conn_handle != BLE_CONN_HANDLE_INVALID)
-        { 
+      //  if (m_conn_handle != BLE_CONN_HANDLE_INVALID)
+      //  { 
            
             if (m_emg_data_avail)
             {
@@ -1182,11 +1184,11 @@ int main(void)
                m_eeg_data_avail = false;
             }                  
 
-        }
+      //  }
 
-#ifdef NRF52_DK
-        bsp_board_led_invert(BSP_BOARD_LED_3);
-#endif
+//#ifdef NRF52_DK
+//        bsp_board_led_invert(BSP_BOARD_LED_3);
+//#endif
 
         idle_state_handle();
     }

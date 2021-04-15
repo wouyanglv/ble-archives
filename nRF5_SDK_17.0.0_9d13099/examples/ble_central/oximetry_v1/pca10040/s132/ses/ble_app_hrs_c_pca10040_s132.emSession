@@ -2,6 +2,7 @@
 <session>
  <Bookmarks/>
  <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="144" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
   <BreakpointListItem trigger="" line="584" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
  </Breakpoints>
  <ExecutionProfileWindow/>
@@ -56,7 +57,7 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="689" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="368" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="48" y="143" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="138" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="216" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c.c" selected="0" top="200" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="6438" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="6406" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_uart.c" selected="0" top="83" codecName="Default"/>

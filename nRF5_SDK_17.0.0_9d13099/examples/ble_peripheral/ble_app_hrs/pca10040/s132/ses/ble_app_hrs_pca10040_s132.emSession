@@ -45,8 +45,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="372" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="44" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="184" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Dropbox (MIT)/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/examples/ble_peripheral/ble_app_hrs/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.c" selected="0" top="163" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="372" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="184" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Dropbox (MIT)/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/examples/ble_peripheral/ble_app_hrs/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.c" selected="0" top="278" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11795" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11776" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="73" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Desktop/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/examples/ble_peripheral/ble_app_hrs/main.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_saadc.h" selected="0" top="56" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9916" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Desktop/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/modules/nrfx/hal/nrf_saadc.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf52_bitfields.h" selected="0" top="9899" codecName="Default"/>
@@ -60,5 +60,5 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="23" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Dropbox (MIT)/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/components/ble/ble_services/ble_hrs/ble_hrs.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" selected="0" top="4" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="242" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_bas/ble_bas.c" selected="0" top="227" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ble_app_hrs_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Rogers Group/Desktop/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="ble_app_hrs_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Rogers Group/Desktop/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy" debugSearchPath="" autoConnectCapabilities="3711"/>
 </session>

@@ -1,5 +1,5 @@
 Output/ble_app_hrs_c_pca10040_s132\ Release/Obj/nrf_hw_backend_init.o: \
- C:\Users\Rogers\ Group\Desktop\nRF5_SDK_17.0.0_9d13099\components\libraries\crypto\backend\nrf_hw\nrf_hw_backend_init.c \
+ C:\Users\Rogers\ Group\Dropbox\ (MIT)\Wei\ Ouyang\ -\ BLE\nRF5_SDK_17.0.0_9d13099\components\libraries\crypto\backend\nrf_hw\nrf_hw_backend_init.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52a/include/stdbool.h \

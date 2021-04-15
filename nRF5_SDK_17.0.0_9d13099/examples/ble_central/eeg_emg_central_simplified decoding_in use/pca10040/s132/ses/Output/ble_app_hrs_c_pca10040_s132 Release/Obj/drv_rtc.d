@@ -1,5 +1,5 @@
 Output/ble_app_hrs_c_pca10040_s132\ Release/Obj/drv_rtc.o: \
- C:\Users\Rogers\ Group\Desktop\nRF5_SDK_17.0.0_9d13099\components\libraries\timer\drv_rtc.c \
+ C:\Users\Rogers\ Group\Dropbox\ (MIT)\Wei\ Ouyang\ -\ BLE\nRF5_SDK_17.0.0_9d13099\components\libraries\timer\drv_rtc.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

@@ -52,7 +52,7 @@
 #define HANDLE_LENGTH 2                                                              /**< Length of handle inside Heart Rate Measurement packet. */
 #define MAX_HRM_LEN      (NRF_SDH_BLE_GATT_MAX_MTU_SIZE - OPCODE_LENGTH - HANDLE_LENGTH) /**< Maximum size of a transmitted Heart Rate Measurement. */
 
-uint16_t initial_value_hrm       =             0;                                  /**< Initial Heart Rate Measurement value. */
+uint16_t initial_value_hrm[25]        =              { 0  };                                 /**< Initial Heart Rate Measurement value. */
 
 // Heart Rate Measurement flag bits
 #define HRM_FLAG_MASK_HR_VALUE_16BIT            (0x01 << 0)                           /**< Heart Rate Value Format bit. */
@@ -154,6 +154,48 @@ void ble_hrs_on_ble_evt(ble_evt_t const * p_ble_evt, void * p_context)
     }
 }
 
+// Used for Amay's battery work
+///**@brief Function for encoding a Heart Rate Measurement.
+// *
+// * @param[in]   p_hrs              Heart Rate Service structure.
+// * @param[in]   heart_rate         Measurement to be encoded.
+// * @param[out]  p_encoded_buffer   Buffer where the encoded data will be written.
+// *
+// * @return      Size of encoded data.
+// */
+//static uint8_t hrm_encode(ble_hrs_t * p_hrs, uint8_t temp,  uint32_t tot_count, uint8_t timer_period, uint8_t * p_encoded_buffer)
+//{
+//    uint8_t len = 0;
+//
+////    int16_t test_dataset [32] ={0, 0,
+////                                        1, -1,
+////                                        5, -5,
+////                                        10, -10,
+////                                        16, -16,
+////                                        50, -50,
+////                                        100, -100,
+////                                        256, -256,
+////                                        500, -500,
+////                                        1000, -1000,
+////                                        1024, -1024,
+////                                        5000, -5000,
+////                                        8000, -8000,
+////                                        10000, -10000,
+////                                        30000, -30000,
+////                                        32767, -32768
+////                                        };
+//
+//    memcpy(&(p_encoded_buffer[len]), &timer_period, sizeof(uint8_t));
+//    len += sizeof(uint8_t);
+//    memcpy(&(p_encoded_buffer[len]), &(temp), sizeof(uint8_t));
+//    len += sizeof(uint8_t);
+//    memcpy(&(p_encoded_buffer[len]), &tot_count, sizeof(uint32_t));
+//    len += sizeof(uint32_t);
+//    
+//    
+//    return len;
+//}
+
 
 /**@brief Function for encoding a Heart Rate Measurement.
  *
@@ -163,7 +205,7 @@ void ble_hrs_on_ble_evt(ble_evt_t const * p_ble_evt, void * p_context)
  *
  * @return      Size of encoded data.
  */
-static uint8_t hrm_encode(ble_hrs_t * p_hrs, uint8_t temp,  uint32_t tot_count, uint8_t timer_period, uint8_t * p_encoded_buffer)
+static uint8_t hrm_encode(ble_hrs_t * p_hrs, int16_t * p_buffer, uint8_t buffer_len, uint32_t tot_count, uint8_t timer_period, uint8_t * p_encoded_buffer)
 {
     uint8_t len = 0;
 
@@ -185,17 +227,21 @@ static uint8_t hrm_encode(ble_hrs_t * p_hrs, uint8_t temp,  uint32_t tot_count, 
 //                                        32767, -32768
 //                                        };
 
-    memcpy(&(p_encoded_buffer[len]), &timer_period, sizeof(uint8_t));
-    len += sizeof(uint8_t);
-    memcpy(&(p_encoded_buffer[len]), &(temp), sizeof(uint8_t));
-    len += sizeof(uint8_t);
     memcpy(&(p_encoded_buffer[len]), &tot_count, sizeof(uint32_t));
     len += sizeof(uint32_t);
+    memcpy(&(p_encoded_buffer[len]), &timer_period, sizeof(uint8_t));
+    len += sizeof(uint8_t);
+    memcpy(&(p_encoded_buffer[len]), &buffer_len, sizeof(uint8_t));
+    len += sizeof(uint8_t);
+    for(int i=0;i<buffer_len;i++)
+    {
+       memcpy(&(p_encoded_buffer[len]), &(p_buffer[i]), sizeof(uint16_t));
+       len += sizeof(uint16_t);
+    }
     
     
     return len;
 }
-
 
 uint32_t ble_hrs_init(ble_hrs_t * p_hrs, const ble_hrs_init_t * p_hrs_init)
 {
@@ -229,7 +275,7 @@ uint32_t ble_hrs_init(ble_hrs_t * p_hrs, const ble_hrs_init_t * p_hrs_init)
 
     add_char_params.uuid              = BLE_UUID_HEART_RATE_MEASUREMENT_CHAR;
     add_char_params.max_len           = MAX_HRM_LEN;
-    add_char_params.init_len          = hrm_encode(p_hrs, initial_value_hrm, 0, 5, encoded_initial_hrm);
+    add_char_params.init_len          = hrm_encode(p_hrs, initial_value_hrm, 25, 0, 10, encoded_initial_hrm);
     add_char_params.p_init_value      = encoded_initial_hrm;
     add_char_params.is_var_len        = true;
     add_char_params.char_props.notify = 1;
@@ -264,7 +310,7 @@ uint32_t ble_hrs_init(ble_hrs_t * p_hrs, const ble_hrs_init_t * p_hrs_init)
 }
 
 
-uint32_t ble_hrs_heart_rate_measurement_send(ble_hrs_t * p_hrs, uint8_t temp,  uint32_t tot_count, uint8_t timer_period)
+uint32_t ble_hrs_heart_rate_measurement_send(ble_hrs_t * p_hrs, int16_t * p_buffer, uint8_t buffer_len, uint32_t tot_count, uint8_t timer_period)
 {
     uint32_t err_code;
 
@@ -276,7 +322,7 @@ uint32_t ble_hrs_heart_rate_measurement_send(ble_hrs_t * p_hrs, uint8_t temp,  u
         uint16_t               hvx_len;
         ble_gatts_hvx_params_t hvx_params;
 
-        len     = hrm_encode(p_hrs, temp, tot_count, timer_period, encoded_hrm);
+        len     = hrm_encode(p_hrs, p_buffer, buffer_len, tot_count, timer_period, encoded_hrm);
         hvx_len = len;
 
         memset(&hvx_params, 0, sizeof(hvx_params));

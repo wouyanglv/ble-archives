@@ -141,7 +141,7 @@ static ble_gap_scan_params_t const m_scan_param =
 /**@brief Names which the central applications will scan for, and which will be advertised by the peripherals.
  *  if these are set to empty strings, the UUIDs defined below will be used
  */
-static char const m_target_periph_name[] = "Implantable_MA";      /**< If you want to connect to a peripheral using a given advertising name, type its name here. */
+static char const m_target_periph_name[] = "MA01";      /**< If you want to connect to a peripheral using a given advertising name, type its name here. */
 static bool is_connect_per_addr = false;            /**< If you want to connect to a peripheral with a given address, set this to true and put the correct address in the variable below. */
 
 static ble_gap_addr_t const m_target_periph_addr =

@@ -201,7 +201,7 @@ void ble_hrs_on_ble_evt(ble_evt_t const * p_ble_evt, void * p_context);
  *
  * @return      NRF_SUCCESS on success, otherwise an error code.
  */
-uint32_t ble_hrs_heart_rate_measurement_send(ble_hrs_t * p_hrs, uint8_t temp, uint32_t tot_count, uint8_t timer_period);
+uint32_t ble_hrs_heart_rate_measurement_send(ble_hrs_t * p_hrs, int16_t * p_buffer, uint8_t buffer_len, uint32_t tot_count, uint8_t timer_period);
 
 /**@brief Function for adding a RR Interval measurement to the RR Interval buffer.
  *

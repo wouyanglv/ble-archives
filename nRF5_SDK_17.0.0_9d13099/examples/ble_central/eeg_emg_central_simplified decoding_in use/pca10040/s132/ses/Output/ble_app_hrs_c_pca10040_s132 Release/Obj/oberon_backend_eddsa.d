@@ -1,5 +1,5 @@
 Output/ble_app_hrs_c_pca10040_s132\ Release/Obj/oberon_backend_eddsa.o: \
- C:\Users\Rogers\ Group\Desktop\nRF5_SDK_17.0.0_9d13099\components\libraries\crypto\backend\oberon\oberon_backend_eddsa.c \
+ C:\Users\Rogers\ Group\Dropbox\ (MIT)\Wei\ Ouyang\ -\ BLE\nRF5_SDK_17.0.0_9d13099\components\libraries\crypto\backend\oberon\oberon_backend_eddsa.c \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52a/include/stdint.h \

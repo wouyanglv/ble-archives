@@ -3,7 +3,7 @@
  <Bookmarks/>
  <Breakpoints groups="Breakpoints" active_group="Breakpoints">
   <BreakpointListItem trigger="" line="103" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
-  <BreakpointListItem trigger="" line="584" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="629" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
  </Breakpoints>
  <ExecutionProfileWindow/>
  <FrameBufferWindow>
@@ -57,7 +57,7 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="580" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="551" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="620" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="581" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="216" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c.c" selected="0" top="200" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="6438" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="6406" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_uart.c" selected="0" top="83" codecName="Default"/>
@@ -75,7 +75,7 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="114" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp_config.h" selected="0" top="102" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.h" selected="0" top="60" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="137" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Desktop/nRF5_SDK_17.0.0_9d13099/examples-old/ble_central/eeg_emg_central_simplified decoding_in use/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c.h" selected="0" top="121" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="178" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c_eeg.c" selected="0" top="162" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="178" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c_eeg.c" selected="0" top="233" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="147" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Desktop/Wei Ouyang - BLE/nRF5_SDK_17.0.0_9d13099/examples/ble_central/strain_gauge_central_v1/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c_eeg.h" selected="0" top="118" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="858" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/mem_manager/mem_manager.c" selected="0" top="826" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="196" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/pwr_mgmt/nrf_pwr_mgmt.c" selected="0" top="164" codecName="Default"/>

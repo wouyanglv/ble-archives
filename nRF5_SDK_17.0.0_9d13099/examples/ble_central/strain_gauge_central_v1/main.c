@@ -141,7 +141,7 @@ static ble_gap_scan_params_t const m_scan_param =
 /**@brief Names which the central applications will scan for, and which will be advertised by the peripherals.
  *  if these are set to empty strings, the UUIDs defined below will be used
  */
-static char const m_target_periph_name[] = "Rogers_Battery";      /**< If you want to connect to a peripheral using a given advertising name, type its name here. */
+static char const m_target_periph_name[] = "Rogers_Strain";      /**< If you want to connect to a peripheral using a given advertising name, type its name here. */
 static bool is_connect_per_addr = false;            /**< If you want to connect to a peripheral with a given address, set this to true and put the correct address in the variable below. */
 
 static ble_gap_addr_t const m_target_periph_addr =
@@ -534,8 +534,8 @@ char *uint64_to_string (uint64_t input)
 }
 
 
-void biosignal_decode (uint8_t *p_encoded_buffer)
-{
+//void biosignal_decode (uint8_t *p_encoded_buffer)
+//{
 
 
 //    uint32_t tot_count = (p_encoded_buffer [2] + p_encoded_buffer [3] * (1<<8) +  p_encoded_buffer [4] * (1<<16) +
@@ -579,9 +579,54 @@ void biosignal_decode (uint8_t *p_encoded_buffer)
 //       
 //     }
 
+//}
+
+void biosignal_decode (uint8_t *p_encoded_buffer)
+{
+
+
+    uint32_t tot_count = (p_encoded_buffer [0] + p_encoded_buffer [1] * (1<<8) +  p_encoded_buffer [2] * (1<<16) +
+                               p_encoded_buffer [3] * (1<<24));
+
+     uint8_t timer_period = p_encoded_buffer [4];
+     uint8_t buffer_len = p_encoded_buffer [5];
+      int16_t ecgSamples [buffer_len];
+     char buffer_packet [2048] = "";
+     memset(&buffer_packet [0], 0, sizeof(buffer_packet));
+     sprintf(buffer_packet, "(*%d*%d*%d", tot_count, timer_period, buffer_len);     
+     
+     for (int i = 0; i < buffer_len; i++)
+     {
+        // check if the signal is positive or negative. Negative numbers represented by two's complement.
+        if ((p_encoded_buffer [i*2+7] & (1<<8)) == 0)
+        {
+          ecgSamples [i] = p_encoded_buffer [i*2+7] * (1<<8) + p_encoded_buffer [i*2+6];
+       //   NRF_LOG_INFO("ecgSample [%d] : %d \r\n", i, ecgSamples[i]);
+
+        }
+        else
+        {
+          ecgSamples [i] = (1<<16) - (p_encoded_buffer [i*2+7] * (1<<8) + p_encoded_buffer [i*2+6]) + 1;
+        //  NRF_LOG_INFO("ecgSample [%d] : %d \r\n", i, ecgSamples[i]);
+        }
+
+        char buffer [1024];
+        memset(&buffer [0], 0, sizeof(buffer));
+        sprintf(buffer, "*%d", ecgSamples [i]);
+           
+        strcat(buffer_packet, buffer);
+     }
+      
+     strcat(buffer_packet, "*)\n");
+     SEGGER_RTT_printf(0,"%s\n",buffer_packet);
+     int buffer_packet_len=strlen(buffer_packet);
+     for (int k=0; k<buffer_packet_len; k++)
+     {
+        app_uart_put(buffer_packet[k]);
+       
+     }
+
 }
-
-
 
 /**@brief Heart Rate Collector Handler.
  */

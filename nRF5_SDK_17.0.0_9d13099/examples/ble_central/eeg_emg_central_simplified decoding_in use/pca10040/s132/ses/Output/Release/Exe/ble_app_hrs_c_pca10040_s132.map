@@ -564,8 +564,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x7ac Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
  .debug_macro   0x0000000000000000       0x16 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
  .debug_macro   0x0000000000000000       0x55 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
- .debug_line    0x0000000000000000      0x395 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
- .debug_str     0x0000000000000000    0x6f7c8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
+ .debug_line    0x0000000000000000      0x3ac Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
+ .debug_str     0x0000000000000000    0x6f7f2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
  .comment       0x0000000000000000       0x48 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
  .ARM.attributes
                 0x0000000000000000       0x39 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng.o
@@ -2005,8 +2005,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x7ac Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
  .debug_macro   0x0000000000000000       0x16 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
  .debug_macro   0x0000000000000000       0x55 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
- .debug_line    0x0000000000000000      0x38f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
- .debug_str     0x0000000000000000    0x6f7c2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
+ .debug_line    0x0000000000000000      0x3a6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
+ .debug_str     0x0000000000000000    0x6f7ec Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
  .comment       0x0000000000000000       0x48 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
  .ARM.attributes
                 0x0000000000000000       0x39 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/hardfault_implementation.o
@@ -6225,8 +6225,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x7ac Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
  .debug_macro   0x0000000000000000       0x16 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
  .debug_macro   0x0000000000000000       0x55 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
- .debug_line    0x0000000000000000      0x389 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
- .debug_str     0x0000000000000000    0x6f7bc Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
+ .debug_line    0x0000000000000000      0x3a0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
+ .debug_str     0x0000000000000000    0x6f7e6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
  .comment       0x0000000000000000       0x48 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
  .ARM.attributes
                 0x0000000000000000       0x39 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_uart.o
@@ -9435,8 +9435,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x7ac Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
  .debug_macro   0x0000000000000000       0x16 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
  .debug_macro   0x0000000000000000       0x55 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
- .debug_line    0x0000000000000000      0x387 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
- .debug_str     0x0000000000000000    0x6f7ba Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
+ .debug_line    0x0000000000000000      0x39e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
+ .debug_str     0x0000000000000000    0x6f7e4 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
  .comment       0x0000000000000000       0x48 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
  .ARM.attributes
                 0x0000000000000000       0x39 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/auth_status_tracker.o
@@ -17231,8 +17231,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x6c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
  .debug_macro   0x0000000000000000       0x10 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
  .debug_macro   0x0000000000000000       0x1c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
- .debug_line    0x0000000000000000      0x919 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
- .debug_str     0x0000000000000000    0x7390b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
+ .debug_line    0x0000000000000000      0x930 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
+ .debug_str     0x0000000000000000    0x73935 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
  .comment       0x0000000000000000       0x48 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
  .ARM.attributes
                 0x0000000000000000       0x39 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_eddsa.o
@@ -23750,90 +23750,90 @@ OUTPUT(Output/Release/Exe/ble_app_hrs_c_pca10040_s132.elf elf32-littlearm)
  .comment       0x00000000000000c0       0x7a ../../../../../../external/nrf_oberon/lib/cortex-m4/hard-float/liboberon_3.0.5.a(ocrypto_sha512_loop.c.obj)
  .comment       0x00000000000000c0       0x7a ../../../../../../external/nrf_oberon/lib/cortex-m4/hard-float/liboberon_3.0.5.a(ocrypto_curve_p256.c.obj)
 
-.debug_line     0x0000000000000000    0x3d6a8
+.debug_line     0x0000000000000000    0x3d7a5
  .debug_line    0x0000000000000000      0x1ee Output/ble_app_hrs_c_pca10040_s132 Release/Obj/thumb_crt0.o
  .debug_line    0x00000000000001ee      0xea0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp.o
  .debug_line    0x000000000000108e      0x996 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp_btn_ble.o
- .debug_line    0x0000000000001a24      0x6b6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_init.o
- .debug_line    0x00000000000020da      0x9ff Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng_mbedtls.o
- .debug_line    0x0000000000002ad9      0xda7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_button.o
- .debug_line    0x0000000000003880      0x3d2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error.o
- .debug_line    0x0000000000003c52      0x7a3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error_weak.o
- .debug_line    0x00000000000043f5      0xdef Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_timer2.o
- .debug_line    0x00000000000051e4      0x61e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_util_platform.o
- .debug_line    0x0000000000005802     0x11fe Output/ble_app_hrs_c_pca10040_s132 Release/Obj/drv_rtc.o
- .debug_line    0x0000000000006a00     0x1e94 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/fds.o
- .debug_line    0x0000000000008894      0x7e1 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/mem_manager.o
- .debug_line    0x0000000000009075      0x7ee Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atfifo.o
- .debug_line    0x0000000000009863      0x6f0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atflags.o
- .debug_line    0x0000000000009f53      0x70b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atomic.o
- .debug_line    0x000000000000a65e      0x74f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_balloc.o
- .debug_line    0x000000000000adad      0x447 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf.o
- .debug_line    0x000000000000b1f4      0x8a7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf_format.o
- .debug_line    0x000000000000ba9b      0xd54 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage.o
- .debug_line    0x000000000000c7ef      0xb4e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage_sd.o
- .debug_line    0x000000000000d33d      0x889 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_memobj.o
- .debug_line    0x000000000000dbc6      0xcee Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_pwr_mgmt.o
- .debug_line    0x000000000000e8b4      0xcce Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_queue.o
- .debug_line    0x000000000000f582      0x7f5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ringbuf.o
- .debug_line    0x000000000000fd77      0x469 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_section_iter.o
- .debug_line    0x00000000000101e0      0x643 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sortlist.o
- .debug_line    0x0000000000010823      0x43d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_strerror.o
- .debug_line    0x0000000000010c60      0xb4f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_uart_fifo.o
- .debug_line    0x00000000000117af      0x76f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_fifo.o
- .debug_line    0x0000000000011f1e      0xe9f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_clock.o
- .debug_line    0x0000000000012dbd      0xb4c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_rng.o
- .debug_line    0x0000000000013909      0x729 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_uart.o
- .debug_line    0x0000000000014032      0xcfb Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_clock.o
- .debug_line    0x0000000000014d2d     0x1c80 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_gpiote.o
- .debug_line    0x00000000000169ad      0x7e5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_prs.o
- .debug_line    0x0000000000017192      0xa17 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_rng.o
- .debug_line    0x0000000000017ba9     0x18a7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uart.o
- .debug_line    0x0000000000019450     0x1822 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uarte.o
- .debug_line    0x000000000001ac72      0xb8b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/boards.o
- .debug_line    0x000000000001b7fd      0x997 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_rtt.o
- .debug_line    0x000000000001c194      0x761 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_serial.o
- .debug_line    0x000000000001c8f5      0x651 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_default_backends.o
- .debug_line    0x000000000001cf46     0x12ed Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_frontend.o
- .debug_line    0x000000000001e233      0x872 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_str_formatter.o
- .debug_line    0x000000000001eaa5     0x15b1 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/aes.o
- .debug_line    0x0000000000020056      0x809 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ctr_drbg.o
- .debug_line    0x000000000002085f      0x216 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/platform_util.o
- .debug_line    0x0000000000020a75      0xf01 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecc.o
- .debug_line    0x0000000000021976      0x8d3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecdh.o
- .debug_line    0x0000000000022249      0x55f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_init.o
- .debug_line    0x00000000000227a8      0xd0d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_rng.o
- .debug_line    0x00000000000234b5     0x1d23 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/main.o
- .debug_line    0x00000000000251d8     0x131f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT.o
- .debug_line    0x00000000000264f7      0x8b7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT_printf.o
- .debug_line    0x0000000000026dae       0x98 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf52.o
- .debug_line    0x0000000000026e46       0xba Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf_common.o
- .debug_line    0x0000000000026f00      0x6b5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/system_nrf52.o
- .debug_line    0x00000000000275b5      0xfa2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_advdata.o
- .debug_line    0x0000000000028557      0xc54 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_conn_state.o
- .debug_line    0x00000000000291ab     0x11d6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_db_discovery.o
- .debug_line    0x000000000002a381     0x1206 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatt_cache_manager.o
- .debug_line    0x000000000002b587      0xc6a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatts_cache_manager.o
- .debug_line    0x000000000002c1f1     0x11c9 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/id_manager.o
- .debug_line    0x000000000002d3ba      0xb5a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gatt.o
- .debug_line    0x000000000002df14      0xe7f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gq.o
- .debug_line    0x000000000002ed93     0x15ce Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_lesc.o
- .debug_line    0x0000000000030361     0x1072 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_scan.o
- .debug_line    0x00000000000313d3     0x1011 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_data_storage.o
- .debug_line    0x00000000000323e4     0x1043 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_database.o
- .debug_line    0x0000000000033427      0x7d7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_id.o
- .debug_line    0x0000000000033bfe     0x1b01 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager.o
- .debug_line    0x00000000000356ff     0x1118 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager_handler.o
- .debug_line    0x0000000000036817      0x613 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/pm_buffer.o
- .debug_line    0x0000000000036e2a     0x11fe Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_dispatcher.o
- .debug_line    0x0000000000038028      0xfd9 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_manager.o
- .debug_line    0x0000000000039001      0xbae Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_bas_c.o
- .debug_line    0x0000000000039baf      0xb30 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_hrs_c_eeg.o
- .debug_line    0x000000000003a6df      0xae0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh.o
- .debug_line    0x000000000003b1bf      0xb20 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_ble.o
- .debug_line    0x000000000003bcdf      0x636 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_soc.o
- .debug_line    0x000000000003c315      0xb72 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecc.o
- .debug_line    0x000000000003ce87      0x821 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecdh.o
+ .debug_line    0x0000000000001a24      0x6cd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_init.o
+ .debug_line    0x00000000000020f1      0x9ff Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng_mbedtls.o
+ .debug_line    0x0000000000002af0      0xda7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_button.o
+ .debug_line    0x0000000000003897      0x3d2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error.o
+ .debug_line    0x0000000000003c69      0x7a3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error_weak.o
+ .debug_line    0x000000000000440c      0xdef Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_timer2.o
+ .debug_line    0x00000000000051fb      0x61e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_util_platform.o
+ .debug_line    0x0000000000005819     0x1215 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/drv_rtc.o
+ .debug_line    0x0000000000006a2e     0x1e94 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/fds.o
+ .debug_line    0x00000000000088c2      0x7e1 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/mem_manager.o
+ .debug_line    0x00000000000090a3      0x7ee Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atfifo.o
+ .debug_line    0x0000000000009891      0x6f0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atflags.o
+ .debug_line    0x0000000000009f81      0x70b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atomic.o
+ .debug_line    0x000000000000a68c      0x74f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_balloc.o
+ .debug_line    0x000000000000addb      0x447 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf.o
+ .debug_line    0x000000000000b222      0x8a7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf_format.o
+ .debug_line    0x000000000000bac9      0xd54 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage.o
+ .debug_line    0x000000000000c81d      0xb4e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage_sd.o
+ .debug_line    0x000000000000d36b      0x889 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_memobj.o
+ .debug_line    0x000000000000dbf4      0xcee Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_pwr_mgmt.o
+ .debug_line    0x000000000000e8e2      0xcce Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_queue.o
+ .debug_line    0x000000000000f5b0      0x7f5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ringbuf.o
+ .debug_line    0x000000000000fda5      0x469 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_section_iter.o
+ .debug_line    0x000000000001020e      0x643 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sortlist.o
+ .debug_line    0x0000000000010851      0x43d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_strerror.o
+ .debug_line    0x0000000000010c8e      0xb4f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_uart_fifo.o
+ .debug_line    0x00000000000117dd      0x76f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_fifo.o
+ .debug_line    0x0000000000011f4c      0xe9f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_clock.o
+ .debug_line    0x0000000000012deb      0xb4c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_rng.o
+ .debug_line    0x0000000000013937      0x729 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_uart.o
+ .debug_line    0x0000000000014060      0xd12 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_clock.o
+ .debug_line    0x0000000000014d72     0x1c97 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_gpiote.o
+ .debug_line    0x0000000000016a09      0x7e5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_prs.o
+ .debug_line    0x00000000000171ee      0xa2e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_rng.o
+ .debug_line    0x0000000000017c1c     0x18a7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uart.o
+ .debug_line    0x00000000000194c3     0x1822 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uarte.o
+ .debug_line    0x000000000001ace5      0xb8b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/boards.o
+ .debug_line    0x000000000001b870      0x997 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_rtt.o
+ .debug_line    0x000000000001c207      0x761 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_serial.o
+ .debug_line    0x000000000001c968      0x651 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_default_backends.o
+ .debug_line    0x000000000001cfb9     0x12ed Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_frontend.o
+ .debug_line    0x000000000001e2a6      0x872 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_str_formatter.o
+ .debug_line    0x000000000001eb18     0x15c8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/aes.o
+ .debug_line    0x00000000000200e0      0x820 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ctr_drbg.o
+ .debug_line    0x0000000000020900      0x22d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/platform_util.o
+ .debug_line    0x0000000000020b2d      0xf01 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecc.o
+ .debug_line    0x0000000000021a2e      0x8d3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecdh.o
+ .debug_line    0x0000000000022301      0x55f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_init.o
+ .debug_line    0x0000000000022860      0xd0d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_rng.o
+ .debug_line    0x000000000002356d     0x1d23 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/main.o
+ .debug_line    0x0000000000025290     0x131f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT.o
+ .debug_line    0x00000000000265af      0x8b7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT_printf.o
+ .debug_line    0x0000000000026e66       0xaf Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf52.o
+ .debug_line    0x0000000000026f15       0xd1 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf_common.o
+ .debug_line    0x0000000000026fe6      0x6b5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/system_nrf52.o
+ .debug_line    0x000000000002769b      0xfa2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_advdata.o
+ .debug_line    0x000000000002863d      0xc54 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_conn_state.o
+ .debug_line    0x0000000000029291     0x11d6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_db_discovery.o
+ .debug_line    0x000000000002a467     0x1206 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatt_cache_manager.o
+ .debug_line    0x000000000002b66d      0xc6a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatts_cache_manager.o
+ .debug_line    0x000000000002c2d7     0x11c9 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/id_manager.o
+ .debug_line    0x000000000002d4a0      0xb5a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gatt.o
+ .debug_line    0x000000000002dffa      0xe7f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gq.o
+ .debug_line    0x000000000002ee79     0x15ce Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_lesc.o
+ .debug_line    0x0000000000030447     0x1072 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_scan.o
+ .debug_line    0x00000000000314b9     0x1011 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_data_storage.o
+ .debug_line    0x00000000000324ca     0x1043 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_database.o
+ .debug_line    0x000000000003350d      0x7d7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_id.o
+ .debug_line    0x0000000000033ce4     0x1b01 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager.o
+ .debug_line    0x00000000000357e5     0x1118 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager_handler.o
+ .debug_line    0x00000000000368fd      0x613 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/pm_buffer.o
+ .debug_line    0x0000000000036f10     0x11fe Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_dispatcher.o
+ .debug_line    0x000000000003810e      0xfd9 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_manager.o
+ .debug_line    0x00000000000390e7      0xbae Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_bas_c.o
+ .debug_line    0x0000000000039c95      0xb30 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_hrs_c_eeg.o
+ .debug_line    0x000000000003a7c5      0xae0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh.o
+ .debug_line    0x000000000003b2a5      0xb20 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_ble.o
+ .debug_line    0x000000000003bdc5      0x636 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_soc.o
+ .debug_line    0x000000000003c3fb      0xb72 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecc.o
+ .debug_line    0x000000000003cf6d      0x838 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecdh.o
 
 .debug_info     0x0000000000000000    0x4a7b8
  .debug_info    0x0000000000000000       0x22 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/thumb_crt0.o
@@ -24173,172 +24173,172 @@ OUTPUT(Output/Release/Exe/ble_app_hrs_c_pca10040_s132.elf elf32-littlearm)
  .debug_aranges
                 0x00000000000023f0       0x28 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecdh.o
 
-.debug_str      0x0000000000000000    0xaeffe
- .debug_str     0x0000000000000000       0xeb Output/ble_app_hrs_c_pca10040_s132 Release/Obj/thumb_crt0.o
- .debug_str     0x00000000000000eb    0x78c9a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp.o
+.debug_str      0x0000000000000000    0xaf06f
+ .debug_str     0x0000000000000000       0xfe Output/ble_app_hrs_c_pca10040_s132 Release/Obj/thumb_crt0.o
+ .debug_str     0x00000000000000fe    0x78bfb Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp.o
                                       0x7acac (size before relaxing)
- .debug_str     0x0000000000078d85     0x6cf3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp_btn_ble.o
+ .debug_str     0x0000000000078cf9     0x6cf3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/bsp_btn_ble.o
                                       0x80056 (size before relaxing)
- .debug_str     0x000000000007fa78     0x1e8e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_init.o
-                                      0x713e6 (size before relaxing)
- .debug_str     0x0000000000081906      0x3b8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng_mbedtls.o
+ .debug_str     0x000000000007f9ec     0x1ea5 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_init.o
+                                      0x71410 (size before relaxing)
+ .debug_str     0x0000000000081891      0x3b8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_hw_backend_rng_mbedtls.o
                                       0x7984b (size before relaxing)
- .debug_str     0x0000000000081cbe     0x3208 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_button.o
+ .debug_str     0x0000000000081c49     0x3208 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_button.o
                                       0x7c292 (size before relaxing)
- .debug_str     0x0000000000084ec6      0x146 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error.o
+ .debug_str     0x0000000000084e51      0x146 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error.o
                                       0x5ef51 (size before relaxing)
- .debug_str     0x000000000008500c     0x1f63 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error_weak.o
+ .debug_str     0x0000000000084f97     0x1f63 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_error_weak.o
                                       0x7524e (size before relaxing)
- .debug_str     0x0000000000086f6f     0x1176 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_timer2.o
+ .debug_str     0x0000000000086efa     0x1176 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_timer2.o
                                       0x7bf58 (size before relaxing)
- .debug_str     0x00000000000880e5      0x2b8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_util_platform.o
+ .debug_str     0x0000000000088070      0x2b8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_util_platform.o
                                       0x6033c (size before relaxing)
- .debug_str     0x000000000008839d      0x7a3 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/drv_rtc.o
-                                      0x7b8c1 (size before relaxing)
- .debug_str     0x0000000000088b40     0x167d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/fds.o
+ .debug_str     0x0000000000088328      0x7ba Output/ble_app_hrs_c_pca10040_s132 Release/Obj/drv_rtc.o
+                                      0x7b8eb (size before relaxing)
+ .debug_str     0x0000000000088ae2     0x167d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/fds.o
                                       0x730e6 (size before relaxing)
- .debug_str     0x000000000008a1bd     0x10b6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/mem_manager.o
+ .debug_str     0x000000000008a15f     0x10b6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/mem_manager.o
                                       0x732ac (size before relaxing)
- .debug_str     0x000000000008b273      0x197 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atfifo.o
+ .debug_str     0x000000000008b215      0x197 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atfifo.o
                                       0x727c7 (size before relaxing)
- .debug_str     0x000000000008b40a      0x405 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atflags.o
+ .debug_str     0x000000000008b3ac      0x405 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atflags.o
                                       0x6fbbc (size before relaxing)
- .debug_str     0x000000000008b80f      0x69b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atomic.o
+ .debug_str     0x000000000008b7b1      0x69b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_atomic.o
                                       0x6fefd (size before relaxing)
- .debug_str     0x000000000008beaa      0x1f6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_balloc.o
+ .debug_str     0x000000000008be4c      0x1f6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_balloc.o
                                       0x7422d (size before relaxing)
- .debug_str     0x000000000008c0a0      0x2fa Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf.o
+ .debug_str     0x000000000008c042      0x2fa Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf.o
                                       0x6fa97 (size before relaxing)
- .debug_str     0x000000000008c39a      0x55a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf_format.o
+ .debug_str     0x000000000008c33c      0x55a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fprintf_format.o
                                       0x6ff80 (size before relaxing)
- .debug_str     0x000000000008c8f4      0x221 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage.o
+ .debug_str     0x000000000008c896      0x221 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage.o
                                       0x725cf (size before relaxing)
- .debug_str     0x000000000008cb15     0x1050 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage_sd.o
+ .debug_str     0x000000000008cab7     0x1050 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_fstorage_sd.o
                                       0x72e6d (size before relaxing)
- .debug_str     0x000000000008db65      0x24c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_memobj.o
+ .debug_str     0x000000000008db07      0x24c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_memobj.o
                                       0x725b1 (size before relaxing)
- .debug_str     0x000000000008ddb1      0xdfd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_pwr_mgmt.o
+ .debug_str     0x000000000008dd53      0xdfd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_pwr_mgmt.o
                                       0x7d6c2 (size before relaxing)
- .debug_str     0x000000000008ebae     0x19ea Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_queue.o
+ .debug_str     0x000000000008eb50     0x19ea Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_queue.o
                                       0x74dca (size before relaxing)
- .debug_str     0x0000000000090598      0x2d0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ringbuf.o
+ .debug_str     0x000000000009053a      0x2d0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ringbuf.o
                                       0x70cd7 (size before relaxing)
- .debug_str     0x0000000000090868       0x8f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_section_iter.o
+ .debug_str     0x000000000009080a       0x8f Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_section_iter.o
                                       0x6fd10 (size before relaxing)
- .debug_str     0x00000000000908f7      0x100 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sortlist.o
+ .debug_str     0x0000000000090899      0x100 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sortlist.o
                                       0x72416 (size before relaxing)
- .debug_str     0x00000000000909f7      0x128 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_strerror.o
+ .debug_str     0x0000000000090999      0x128 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_strerror.o
                                       0x6f8bd (size before relaxing)
- .debug_str     0x0000000000090b1f     0x15f0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_uart_fifo.o
+ .debug_str     0x0000000000090ac1     0x15f0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_uart_fifo.o
                                       0x79606 (size before relaxing)
- .debug_str     0x000000000009210f      0x10a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_fifo.o
+ .debug_str     0x00000000000920b1      0x10a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/app_fifo.o
                                       0x6f9af (size before relaxing)
- .debug_str     0x0000000000092219      0xa8c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_clock.o
+ .debug_str     0x00000000000921bb      0xa8c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_clock.o
                                       0x7c42b (size before relaxing)
- .debug_str     0x0000000000092ca5      0x2fd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_rng.o
+ .debug_str     0x0000000000092c47      0x2fd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_rng.o
                                       0x7cdb7 (size before relaxing)
- .debug_str     0x0000000000092fa2      0x4a8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_uart.o
+ .debug_str     0x0000000000092f44      0x4a8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_drv_uart.o
                                       0x78d1a (size before relaxing)
- .debug_str     0x000000000009344a      0x866 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_clock.o
-                                      0x7b85a (size before relaxing)
- .debug_str     0x0000000000093cb0      0xfe0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_gpiote.o
-                                      0x7cb60 (size before relaxing)
- .debug_str     0x0000000000094c90      0x36a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_prs.o
+ .debug_str     0x00000000000933ec      0x87d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_clock.o
+                                      0x7b884 (size before relaxing)
+ .debug_str     0x0000000000093c69      0xff7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_gpiote.o
+                                      0x7cb8a (size before relaxing)
+ .debug_str     0x0000000000094c60      0x36a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_prs.o
                                       0x7af8d (size before relaxing)
- .debug_str     0x0000000000094ffa      0x242 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_rng.o
-                                      0x7b178 (size before relaxing)
- .debug_str     0x000000000009523c      0x6bc Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uart.o
+ .debug_str     0x0000000000094fca      0x259 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_rng.o
+                                      0x7b1a2 (size before relaxing)
+ .debug_str     0x0000000000095223      0x6bc Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uart.o
                                       0x7c133 (size before relaxing)
- .debug_str     0x00000000000958f8      0x97d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uarte.o
+ .debug_str     0x00000000000958df      0x97d Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrfx_uarte.o
                                       0x7c5bb (size before relaxing)
- .debug_str     0x0000000000096275      0x132 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/boards.o
+ .debug_str     0x000000000009625c      0x132 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/boards.o
                                       0x78e4e (size before relaxing)
- .debug_str     0x00000000000963a7      0xa0e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_rtt.o
+ .debug_str     0x000000000009638e      0xa0e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_rtt.o
                                       0x7bfda (size before relaxing)
- .debug_str     0x0000000000096db5      0x1a2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_serial.o
+ .debug_str     0x0000000000096d9c      0x1a2 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_backend_serial.o
                                       0x74448 (size before relaxing)
- .debug_str     0x0000000000096f57      0x156 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_default_backends.o
+ .debug_str     0x0000000000096f3e      0x156 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_default_backends.o
                                       0x741fd (size before relaxing)
- .debug_str     0x00000000000970ad      0x8a0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_frontend.o
+ .debug_str     0x0000000000097094      0x8a0 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_frontend.o
                                       0x756c4 (size before relaxing)
- .debug_str     0x000000000009794d      0x2e8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_str_formatter.o
+ .debug_str     0x0000000000097934      0x2e8 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_log_str_formatter.o
                                       0x7459a (size before relaxing)
- .debug_str     0x0000000000097c35     0x2ff1 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/aes.o
-                                      0x10460 (size before relaxing)
- .debug_str     0x000000000009ac26      0x1b6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ctr_drbg.o
-                                       0xda2c (size before relaxing)
- .debug_str     0x000000000009addc      0x121 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/platform_util.o
-                                       0xd030 (size before relaxing)
- .debug_str     0x000000000009aefd     0x3e89 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecc.o
+ .debug_str     0x0000000000097c1c     0x3008 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/aes.o
+                                      0x1048a (size before relaxing)
+ .debug_str     0x000000000009ac24      0x1cd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ctr_drbg.o
+                                       0xda56 (size before relaxing)
+ .debug_str     0x000000000009adf1      0x138 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/platform_util.o
+                                       0xd05a (size before relaxing)
+ .debug_str     0x000000000009af29     0x3e89 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecc.o
                                       0x73f77 (size before relaxing)
- .debug_str     0x000000000009ed86      0xd4c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecdh.o
+ .debug_str     0x000000000009edb2      0xd4c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_ecdh.o
                                       0x73957 (size before relaxing)
- .debug_str     0x000000000009fad2      0x1fc Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_init.o
+ .debug_str     0x000000000009fafe      0x1fc Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_init.o
                                       0x6fe6d (size before relaxing)
- .debug_str     0x000000000009fcce      0x351 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_rng.o
+ .debug_str     0x000000000009fcfa      0x351 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_crypto_rng.o
                                       0x740c8 (size before relaxing)
- .debug_str     0x00000000000a001f     0x4b19 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/main.o
+ .debug_str     0x00000000000a004b     0x4b19 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/main.o
                                       0x8cf44 (size before relaxing)
- .debug_str     0x00000000000a4b38      0x549 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT.o
+ .debug_str     0x00000000000a4b64      0x549 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT.o
                                       0x6968b (size before relaxing)
- .debug_str     0x00000000000a5081      0x12c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT_printf.o
+ .debug_str     0x00000000000a50ad      0x12c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/SEGGER_RTT_printf.o
                                       0x693d2 (size before relaxing)
- .debug_str     0x00000000000a51ad       0x5b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf52.o
-                                         0xf5 (size before relaxing)
- .debug_str     0x00000000000a5208       0x60 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf_common.o
-                                         0xfa (size before relaxing)
- .debug_str     0x00000000000a5268      0x225 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/system_nrf52.o
+ .debug_str     0x00000000000a51d9       0x72 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf52.o
+                                        0x11f (size before relaxing)
+ .debug_str     0x00000000000a524b       0x77 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ses_startup_nrf_common.o
+                                        0x124 (size before relaxing)
+ .debug_str     0x00000000000a52c2      0x225 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/system_nrf52.o
                                       0x5d8c9 (size before relaxing)
- .debug_str     0x00000000000a548d      0xc02 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_advdata.o
+ .debug_str     0x00000000000a54e7      0xc02 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_advdata.o
                                       0x76d73 (size before relaxing)
- .debug_str     0x00000000000a608f      0x860 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_conn_state.o
+ .debug_str     0x00000000000a60e9      0x860 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_conn_state.o
                                       0x7824b (size before relaxing)
- .debug_str     0x00000000000a68ef      0x597 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_db_discovery.o
+ .debug_str     0x00000000000a6949      0x597 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_db_discovery.o
                                       0x7ea81 (size before relaxing)
- .debug_str     0x00000000000a6e86      0xd91 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatt_cache_manager.o
+ .debug_str     0x00000000000a6ee0      0xd91 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatt_cache_manager.o
                                       0x7cce5 (size before relaxing)
- .debug_str     0x00000000000a7c17      0x37b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatts_cache_manager.o
+ .debug_str     0x00000000000a7c71      0x37b Output/ble_app_hrs_c_pca10040_s132 Release/Obj/gatts_cache_manager.o
                                       0x7b2d7 (size before relaxing)
- .debug_str     0x00000000000a7f92      0x69e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/id_manager.o
+ .debug_str     0x00000000000a7fec      0x69e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/id_manager.o
                                       0x7cdd0 (size before relaxing)
- .debug_str     0x00000000000a8630      0x366 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gatt.o
+ .debug_str     0x00000000000a868a      0x366 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gatt.o
                                       0x7967e (size before relaxing)
- .debug_str     0x00000000000a8996      0x294 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gq.o
+ .debug_str     0x00000000000a89f0      0x294 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_gq.o
                                       0x7d1cc (size before relaxing)
- .debug_str     0x00000000000a8c2a     0x278c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_lesc.o
+ .debug_str     0x00000000000a8c84     0x278c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_lesc.o
                                       0x80a07 (size before relaxing)
- .debug_str     0x00000000000ab3b6      0x4bd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_scan.o
+ .debug_str     0x00000000000ab410      0x4bd Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_ble_scan.o
                                       0x79f83 (size before relaxing)
- .debug_str     0x00000000000ab873      0x4d7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_data_storage.o
+ .debug_str     0x00000000000ab8cd      0x4d7 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_data_storage.o
                                       0x7b50f (size before relaxing)
- .debug_str     0x00000000000abd4a      0x614 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_database.o
+ .debug_str     0x00000000000abda4      0x614 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_database.o
                                       0x7b555 (size before relaxing)
- .debug_str     0x00000000000ac35e       0xed Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_id.o
+ .debug_str     0x00000000000ac3b8       0xed Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_id.o
                                       0x76249 (size before relaxing)
- .debug_str     0x00000000000ac44b      0x751 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager.o
+ .debug_str     0x00000000000ac4a5      0x751 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager.o
                                       0x7cdac (size before relaxing)
- .debug_str     0x00000000000acb9c      0x34e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager_handler.o
+ .debug_str     0x00000000000acbf6      0x34e Output/ble_app_hrs_c_pca10040_s132 Release/Obj/peer_manager_handler.o
                                       0x7c615 (size before relaxing)
- .debug_str     0x00000000000aceea      0x156 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/pm_buffer.o
+ .debug_str     0x00000000000acf44      0x156 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/pm_buffer.o
                                       0x6fc76 (size before relaxing)
- .debug_str     0x00000000000ad040      0x551 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_dispatcher.o
+ .debug_str     0x00000000000ad09a      0x551 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_dispatcher.o
                                       0x7cd6f (size before relaxing)
- .debug_str     0x00000000000ad591      0x372 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_manager.o
+ .debug_str     0x00000000000ad5eb      0x372 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/security_manager.o
                                       0x7c4ec (size before relaxing)
- .debug_str     0x00000000000ad903      0x1a6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_bas_c.o
+ .debug_str     0x00000000000ad95d      0x1a6 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_bas_c.o
                                       0x7e7f9 (size before relaxing)
- .debug_str     0x00000000000adaa9      0x198 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_hrs_c_eeg.o
+ .debug_str     0x00000000000adb03      0x198 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/ble_hrs_c_eeg.o
                                       0x7e853 (size before relaxing)
- .debug_str     0x00000000000adc41      0x49c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh.o
+ .debug_str     0x00000000000adc9b      0x49c Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh.o
                                       0x74c71 (size before relaxing)
- .debug_str     0x00000000000ae0dd      0x725 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_ble.o
+ .debug_str     0x00000000000ae137      0x725 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_ble.o
                                       0x79c7d (size before relaxing)
- .debug_str     0x00000000000ae802      0x1bf Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_soc.o
+ .debug_str     0x00000000000ae85c      0x1bf Output/ble_app_hrs_c_pca10040_s132 Release/Obj/nrf_sdh_soc.o
                                       0x73c15 (size before relaxing)
- .debug_str     0x00000000000ae9c1      0x533 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecc.o
+ .debug_str     0x00000000000aea1b      0x533 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecc.o
                                       0x73535 (size before relaxing)
- .debug_str     0x00000000000aeef4      0x10a Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecdh.o
-                                      0x729da (size before relaxing)
+ .debug_str     0x00000000000aef4e      0x121 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/oberon_backend_ecdh.o
+                                      0x72a04 (size before relaxing)
 
 .debug_ranges   0x0000000000000000     0x66c8
  .debug_ranges  0x0000000000000000       0x78 Output/ble_app_hrs_c_pca10040_s132 Release/Obj/thumb_crt0.o

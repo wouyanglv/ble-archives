@@ -84,12 +84,12 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1216" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="1012" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="1214" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1195" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11266" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11253" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="121" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../max30003.c" selected="0" top="117" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="90" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../max30003.h" selected="0" top="70" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="192" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../ble_bio_sig_svc.h" selected="0" top="174" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="275" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../ble_bio_sig_svc.c" selected="1" top="148" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="275" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../ble_bio_sig_svc.c" selected="0" top="101" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="249" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.c" selected="0" top="292" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="132" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_bas/ble_bas.c" selected="0" top="122" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="121" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_dis/ble_dis.c" selected="0" top="109" codecName="Default"/>
