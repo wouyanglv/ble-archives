@@ -188,7 +188,7 @@ class serialPlot:
 
 
 def main():
-    portName = 'COM3'
+    portName = 'COM4'
     baudRate = 230400
     pltInterval = 400 # in ms
     plotTime = 2 # in s

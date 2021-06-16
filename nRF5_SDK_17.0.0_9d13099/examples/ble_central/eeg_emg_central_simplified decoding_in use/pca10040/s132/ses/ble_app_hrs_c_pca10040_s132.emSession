@@ -53,7 +53,7 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="523" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="504" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="523" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="186" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="172" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c.c" selected="0" top="156" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1880" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="1865" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_uart.c" selected="0" top="83" codecName="Default"/>
@@ -74,5 +74,5 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="177" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c_eeg.c" selected="0" top="163" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="159" useTextEdit="1" openedFrom="C:/Users/Rogers Group/Desktop/nRF5_SDK_17.0.0_9d13099/examples-old/ble_central/eeg_emg_central_simplified decoding_in use/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_hrs_c/ble_hrs_c_eeg.h" selected="0" top="129" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ble_app_hrs_c_pca10040_s132" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Rogers Group/Desktop/nRF5_SDK_17.0.0_9d13099/components/ble/ble_services/ble_hrs_c" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="ble_app_hrs_c_pca10040_s132" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Rogers Group/Desktop/nRF5_SDK_17.0.0_9d13099/components/ble/ble_services/ble_hrs_c" debugSearchPath="" autoConnectCapabilities="3711"/>
 </session>
